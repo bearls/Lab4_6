@@ -1,0 +1,11 @@
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\obj\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.AssemblyInfoInputs.cache
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\obj\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.AssemblyInfo.cs
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.exe
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.deps.json
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.runtimeconfig.json
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.runtimeconfig.dev.json
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.dll
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\bin\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.pdb
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\obj\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.csprojAssemblyReference.cache
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\obj\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.dll
+D:\Users\bearls\source\repos\Lab4_6_Csharp_Barry_Earls\Lab4_6_Csharp_Barry_Earls\obj\Debug\netcoreapp3.1\Lab4_6_Csharp_Barry_Earls.pdb
